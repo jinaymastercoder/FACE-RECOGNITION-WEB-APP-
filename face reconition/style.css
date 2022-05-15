@@ -1,0 +1,17 @@
+#List
+{
+border:2px normal black;
+width: 350px;
+height: 300px;
+}
+#body
+{
+  background:black;
+  color:white;
+}
+#camera
+{
+border:2px dashed white;
+width: 350px;
+height: 300px;
+}
